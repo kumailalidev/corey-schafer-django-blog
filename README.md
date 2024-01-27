@@ -1,0 +1,1 @@
+# Corey Schafer - Python Django Tutorial (Blog Project)
